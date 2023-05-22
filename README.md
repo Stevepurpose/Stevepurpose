@@ -11,13 +11,13 @@
  Express js<br>
  C<br>
  # Skills
-  Good understanding of Redux Toolkit. 
-  version control with Git/Github. 
-  unit test with Jest. 
-  Good understanding of Docker. 
-  secrets hashing. 
-  comfortable with databases. 
-  proficient with Msword and Excel. 
+  Good understanding of Redux Toolkit.<br> 
+  version control with Git/Github.<br> 
+  unit test with Jest.<br> 
+  Good understanding of Docker.<br> 
+  secrets hashing.<br> 
+  comfortable with databases.<br> 
+  proficient with Msword and Excel.<br> 
   # CONTACT
   stephenodogwu83@gmail.com
   Twitter:@PurposeOf1
