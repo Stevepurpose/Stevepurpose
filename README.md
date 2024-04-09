@@ -1,5 +1,5 @@
 # I am Steve
- Stephen is a frontend developer transitioning to fullstack. I basically am a frontend developer who has been acquiring knowledge on the backend,for at least 6 months to when this profile was written.I also have programming foundation  knowledge of the C programming language,which helped me hone my knowledge of basic programming concepts.
+ Stephen is a fullstack developer Who has been developing himself in networking, operating systems and Internationalization concepts .I also have programming foundation  knowledge of the C programming language,which helped me hone my knowledge of basic programming concepts.
  # Stack
   HTML<br>
   CSS<br>
