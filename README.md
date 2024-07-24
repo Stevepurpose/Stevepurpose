@@ -1,5 +1,5 @@
 # I am Steve
- Stephen is a fullstack developer Who has been developing himself in networking, operating systems and Internationalization concepts .I also have programming foundation  knowledge of the C programming language,which helped me hone my knowledge of basic programming concepts.
+ Stephen is a fullstack developer Who has been developing himself in networking, operating systems and Internationalization concepts.
  # Stack
   HTML<br>
   CSS<br>
